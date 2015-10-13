@@ -22,14 +22,9 @@ h2 {
   font-size: 250%;
 }
 
-#1 {
-  display: inline;
-  float: right;
-
-}
-
-#2 {
-  display: inline;
-  float: right;
-
+.imgContainer {
+  position: relative;
+  display: inline-block;
+  float: left;
+  padding: 10px;
 }
